@@ -1,1 +1,4 @@
-/* CSS voor Leaflet */
+#apMap {
+    width: 100%; /* neem de volle breedte in van het parent element */
+    height: 500px;
+}
